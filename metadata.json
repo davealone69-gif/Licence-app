@@ -1,0 +1,6 @@
+{
+  "name": "Extraordinary Licence Logbook",
+  "description": "A driving logbook app designed for drivers operating under an Extraordinary Licence, featuring condition compliance tracking, simple trip entry, and report exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
